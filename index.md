@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+Tech Talent South
 
 [Dice Game Project]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/diceproject.jpg?raw=true"/>
 
 ---
 [Blog Project](/pdf/sample_presentation.pdf)
