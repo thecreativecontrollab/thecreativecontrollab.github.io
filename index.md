@@ -8,7 +8,7 @@ Tech Talent South
 <img src="images/diceproject.jpg?raw=true"/>
 
 ---
-[Blog Project](/pdf/sample_presentation.pdf)
+[Blog Project](https://myownttsblog.cfapps.io/)
 <img src="images/vinyl.jpg?raw=true"/>
 
 ---
